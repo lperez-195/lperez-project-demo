@@ -1,0 +1,3 @@
+/*
+fixed natural log
+*/ 
